@@ -1,0 +1,9 @@
+name: JobsQuests
+version: '${project.version}'
+api-version: 1.19
+description: Jobs module for Quest plugin
+author: Sandie
+website: https://sandie.moe
+
+main: org.sandie.jobsquestmodule
+depend: [ Jobs, Quests ]
